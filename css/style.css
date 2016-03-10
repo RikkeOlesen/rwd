@@ -48,7 +48,7 @@ section {
     height: 176px;
     width: 772px;
     float: left;
-    margin: 0 0 0 83px;
+    margin: 80px 0 0 83px;
 }
 
 #banner_txt {
@@ -193,6 +193,7 @@ footer {
 #footer_header {
     color: #1792aa;
     font-family: Avenir;
+    margin: 0 0 0 60px;
 }
 
 #footer_txt {
@@ -202,7 +203,17 @@ footer {
     width: 400px;
     margin: 2%;
     padding:10px;
+    margin: 0 0 0 50px;
 }
 
+#footer_txt2 {
+    color: #515151;
+    font-family: Avenir;
+    float: left;
+    width: 400px;
+    margin: 2%;
+    padding:10px;
+    margin: 0 0 0 90px;
+}
 
 
